@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OlenVe
 - 👀 I’m interested in crypto
-- 🌱 I’m currently learning Espanol
+- 🌱 I’m currently estiduo Espanol
 
 
 <!---
