@@ -2,6 +2,7 @@
 - 👀 I’m interested in crypto
 - 🌱 I’m currently estiduo Espanol
 - Nasim Taleb
+- Gitcoin passport need 20 score
 
 
 <!---
