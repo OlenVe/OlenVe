@@ -3,4 +3,5 @@
 - 🌱 I’m currently estiduo Espanol
 - Nasim Taleb
 - Gitcoin passport need 20 score
-- galxe pass
+- galxe 2 passes
+- Done
