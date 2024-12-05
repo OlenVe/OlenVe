@@ -1,7 +1,0 @@
-- 👋 Hi, I’m @OlenVe
-- 👀 I’m interested in crypto
-- 🌱 I’m currently estiduo Espanol
-- Nasim Taleb
-- Gitcoin passport need 20 score
-- galxe 2 passes
-- Done
